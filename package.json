@@ -1,0 +1,26 @@
+{
+	"name": "walky-hex",
+	"description": "walk glob pattern for hex",
+	"version": "0.0.1",
+	"license": "UNLICENSED",
+	"bin": {
+		"walky-hex": "index.js"
+	},
+	"author": {
+		"name": "ally",
+		"url": "https://github.com/AllySummers"
+	},
+	"keywords": [
+		"walky-hex",
+		"ally"
+	],
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"glob": "^7.2.0"
+	},
+	"devDependencies": {
+		"prettier": "^2.5.1"
+	}
+}
